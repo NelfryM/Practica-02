@@ -1,0 +1,8 @@
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Calculo_MCD_MCM\Calculo_MCD_MCM\bin\Debug\Calculo_MCD_MCM.exe.config
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Calculo_MCD_MCM\Calculo_MCD_MCM\bin\Debug\Calculo_MCD_MCM.exe
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Calculo_MCD_MCM\Calculo_MCD_MCM\bin\Debug\Calculo_MCD_MCM.pdb
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Calculo_MCD_MCM\Calculo_MCD_MCM\obj\Debug\Calculo_MCD_MCM.csproj.AssemblyReference.cache
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Calculo_MCD_MCM\Calculo_MCD_MCM\obj\Debug\Calculo_MCD_MCM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Calculo_MCD_MCM\Calculo_MCD_MCM\obj\Debug\Calculo_MCD_MCM.csproj.CoreCompileInputs.cache
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Calculo_MCD_MCM\Calculo_MCD_MCM\obj\Debug\Calculo_MCD_MCM.exe
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Calculo_MCD_MCM\Calculo_MCD_MCM\obj\Debug\Calculo_MCD_MCM.pdb
