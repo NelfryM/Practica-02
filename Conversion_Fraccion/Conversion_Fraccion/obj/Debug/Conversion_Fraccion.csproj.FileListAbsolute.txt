@@ -1,0 +1,8 @@
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Conversion_Fraccion\Conversion_Fraccion\bin\Debug\Conversion_Fraccion.exe.config
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Conversion_Fraccion\Conversion_Fraccion\bin\Debug\Conversion_Fraccion.exe
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Conversion_Fraccion\Conversion_Fraccion\bin\Debug\Conversion_Fraccion.pdb
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Conversion_Fraccion\Conversion_Fraccion\obj\Debug\Conversion_Fraccion.csproj.AssemblyReference.cache
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Conversion_Fraccion\Conversion_Fraccion\obj\Debug\Conversion_Fraccion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Conversion_Fraccion\Conversion_Fraccion\obj\Debug\Conversion_Fraccion.csproj.CoreCompileInputs.cache
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Conversion_Fraccion\Conversion_Fraccion\obj\Debug\Conversion_Fraccion.exe
+C:\Users\Nelfry Mercado\Desktop\Practica #1\Practica-2\Conversion_Fraccion\Conversion_Fraccion\obj\Debug\Conversion_Fraccion.pdb
